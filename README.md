@@ -8,7 +8,7 @@ A code journalist who can take pictures, print zines and make videos, this is no
 
 * 🌍  I'm based in Londrina, Pr. Brazil.
 * ✉️  You can contact me at [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
-* 🧠  I'm learning C, Phyton, Wordpress, PHP, Mysql, Javascript.
+* 🧠  I'm learning Javascript, Typescript, Node.js, C, Phyton, Wordpress, PHP, Mysql.
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
