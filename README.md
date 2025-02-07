@@ -42,6 +42,7 @@ A code journalist who can take pictures, print zines and make videos, this is no
 <li><a href="https://lgjor.github.io/devlinks/" target="_blank">Meus links pessoais</a></li>
 <li><a href="https://lgjor.github.io/portaldenoticias/" target="_blank">Portal de notícias</a></li>
 </ul>
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
