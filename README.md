@@ -1,7 +1,7 @@
 Hi 👋 My name is Lucas Godoy
 ============================
 
-Journalist 📸📰🎬💻🕺😅
+I'm a Journalist
 ----------
 
 * 🌍  I'm based in Londrina, Pr. Brazil.
