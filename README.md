@@ -1,10 +1,8 @@
 Hi 👋 My name is Lucas Godoy
 ============================
 
-Journalist
+Journalist 📸📰🎬💻🕺😅
 ----------
-
-A code journalist who can take pictures, print zines and make videos, this is not a joke. 📸📰🎬💻🕺😅
 
 * 🌍  I'm based in Londrina, Pr. Brazil.
 * ✉️  You can contact me at [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
