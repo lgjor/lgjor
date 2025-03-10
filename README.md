@@ -6,7 +6,7 @@ I'm a Journalist
 
 * 🌍  I'm based in Londrina, Pr. Brazil.
 * ✉️  You can contact me at [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
-* 🧠  I'm learning Javascript, Typescript, Node.js, C, Phyton, Wordpress, PHP, Mysql.
+* 🧠  I'm learning Javascript, Typescript, Node.js, Java, C, Phyton, Wordpress, PHP, Mysql.
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
