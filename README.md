@@ -50,7 +50,8 @@ I'm a Journalist
 <li><a href="https://github.com/lgjor/EntendendoAlgoritmos" target="_blank">Livro: Entendendo Algoritmos de Aditya Y. Bhargava.</a></li>
 <li><a href="https://github.com/lgjor/Estrutura-de-dados" target="_blank">Estrutura de dados com prof. Isidro.</a></li>
 <li>Bootcamp Java Cloud Native - Bradesco Microsoft DIO - Sintaxe básica
-   <ol><li><a href="https://github.com/lgjor/ContaBanco" target="_blank">Conta banco</li>
+   <ol><li><a href="https://github.com/lgjor/dio-lab-open-source" target="_blank">Contribuindo em um projeto Open Source com o Github</a></li>
+       <li><a href="https://github.com/lgjor/ContaBanco" target="_blank">Conta banco</li>
        <li><a href="https://github.com/lgjor/ProcessoSeletivo" target="_blank">Processo seletivo</li>
        <li><a href="https://github.com/lgjor/Contador" target="_blank">Contador</li>
    </ol>
