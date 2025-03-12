@@ -34,7 +34,7 @@ I'm a Journalist
 
 <a href="https://github.com/lgjor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgjor&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### My Projects
+### Meus projetos
 
 <ul>
 <li><a href="https://lgjor.github.io/devlinks/" target="_blank">Meus links pessoais</a></li>
@@ -44,6 +44,11 @@ I'm a Journalist
 <li><a href="https://lgjor.github.io/formulariodematricula/" target="_blank">Formulário de Matrícula</a></li>
 <li><a href="https://lgjor.github.io/recipepage/" target="_blank">Página de receitas</a></li>
 </ul>
+
+### Meus estudos
+
+<li><a href="https://github.com/lgjor/EntendendoAlgoritmos" target="_blank">Livro: Entendendo Algoritmos de Aditya Y. Bhargava.</a></li>
+<li><a href="https://github.com/lgjor/Estrutura-de-dados" target="_blank">Estrutura de dados com prof. Isidro.</a></li>
 
 ### Support Me
 
