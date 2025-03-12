@@ -54,7 +54,7 @@ I'm a Journalist
 
 <ul>
    <li>Bootcamp Java Cloud Native - Bradesco Microsoft DIO - Git Github</li>
-      <ol type="1" value="0"><li><a href="https://github.com/lgjor/dio-lab-open-source" target="_blank">Contribuindo em um projeto Open Source com o Github</a></li></ol>
+      <ol type="1"><li value="0"><a href="https://github.com/lgjor/dio-lab-open-source" target="_blank">Contribuindo em um projeto Open Source com o Github</a></li></ol>
    <li>Bootcamp Java Cloud Native - Bradesco Microsoft DIO - Sintaxe Básica</li>  
       <ol type="1">
          <li><a href="https://github.com/lgjor/ContaBanco" target="_blank">Conta banco</li>
