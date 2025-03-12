@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas Godoy
 I'm a Journalist
 ----------
 
-* 🌍  I'm based in Londrina, Pr. Brazil.
+* 🚌  This month I'm moving to a new city.
 * ✉️  You can contact me at [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
 * 🧠  I'm learning Javascript, Typescript, Node.js, Java, C, Phyton, Wordpress, PHP, Mysql.
 * 🤝  I'm open to collaborating on Interesting projects
