@@ -69,8 +69,8 @@ I'm a Journalist
          <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Área do retângulo</li>
          <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Diferença de idades</li>
          <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Calculadora de IMC</li>
-         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Lista intervalo de pares ou ímpares</li>
-         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Recebe números até que o valor recebido dividido pelo 1º número tenha resto diferente de 0 na divisão</li>
+         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Lista intervalo de pares ou ímpares de modo decrescente</li>
+         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Recebe números até que o valor recebido dividido pelo 1º número tenha resto diferente de 0 na divisão, ignorando valores menores que o 1º</li>
       </ol>
    </li>
 </ul>
