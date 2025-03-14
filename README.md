@@ -53,33 +53,34 @@ I'm a Journalist
 </ul>
 
 <ul>
-   <li>Bootcamp Java Cloud Native - Bradesco Microsoft DIO - Git Github</li>
-      <ol type="1"><li value="0"><a href="https://github.com/lgjor/dio-lab-open-source" target="_blank">Contribuindo em um projeto Open Source com o Github</a></li></ol>
-   <li>Bootcamp Java - Sintaxe Básica</li>  
-      <ol type="1">
-         <li><a href="https://github.com/lgjor/ContaBanco" target="_blank">Conta banco</li>
-         <li><a href="https://github.com/lgjor/ProcessoSeletivo" target="_blank">Processo seletivo</li>
-         <li><a href="https://github.com/lgjor/Contador" target="_blank">Contador</li>
-      </ol>
+   <li>Bootcamp Java Cloud Native - Bradesco Microsoft DIO - Git Github
+         <ol type="1"><li value="0"><a href="https://github.com/lgjor/dio-lab-open-source" target="_blank">Contribuindo em um projeto Open Source com o Github</a></li></ol>
+      <li>Sintaxe Básica</li>  
+         <ol type="1">
+            <li><a href="https://github.com/lgjor/ContaBanco" target="_blank">Conta banco</li>
+            <li><a href="https://github.com/lgjor/ProcessoSeletivo" target="_blank">Processo seletivo</li>
+            <li><a href="https://github.com/lgjor/Contador" target="_blank">Contador</li>
+         </ol>
+      </li>
+      <li>Exercícios Básicos</li>  
+         <ol type="1">
+            <li value="4"><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Calcula Idade</li>
+            <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Área do quadrado</li>
+            <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Área do retângulo</li>
+            <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Diferença de idades</li>
+            <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Calculadora de IMC</li>
+            <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Lista intervalo de pares ou ímpares de modo decrescente</li>
+            <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Recebe números até que receba valor que dividido pelo 1º número tenha resto diferente de 0, ignorando valores menores que o 1º</li>
+         </ol>
+      </li>
+      <li>A arte da abstração e do encapsulamento</li>
+         <ol type="1">
+            <li value="11"><a href="https://github.com/lgjor/ExerciciosJavaAbsClassesEncapsulamento" target="_blank">Classe carro e App que controla as funções de um Carro</li>
+            <li><a href="https://github.com/lgjor/PetShop" target="_blank">Máquina de banho de um petshop</li>
+         </ol>
+      </li>
+      <li>Herança e polimorfismo</li>
    </li>
-   <li>Bootcamp Java - Exercícios Básicos</li>  
-      <ol type="1">
-         <li value="4"><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Calcula Idade</li>
-         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Área do quadrado</li>
-         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Área do retângulo</li>
-         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Diferença de idades</li>
-         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Calculadora de IMC</li>
-         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Lista intervalo de pares ou ímpares de modo decrescente</li>
-         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Recebe números até que receba valor que dividido pelo 1º número tenha resto diferente de 0, ignorando valores menores que o 1º</li>
-      </ol>
-   </li>
-   <li>Bootcamp Java - A arte da abstração e do encapsulamento</li>
-      <ol type="1">
-         <li value="11"><a href="https://github.com/lgjor/ExerciciosJavaAbsClassesEncapsulamento" target="_blank">Classe carro e App que controla as funções de um Carro</li>
-         <li><a href="https://github.com/lgjor/PetShop" target="_blank">Máquina de banho de um petshop</li>
-      </ol>
-   </li>
-   <li>Bootcamp Java - Herança e polimorfismo</li>
 </ul>
 
 ### Support Me
