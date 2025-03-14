@@ -55,11 +55,19 @@ I'm a Journalist
 <ul>
    <li>Bootcamp Java Cloud Native - Bradesco Microsoft DIO - Git Github</li>
       <ol type="1"><li value="0"><a href="https://github.com/lgjor/dio-lab-open-source" target="_blank">Contribuindo em um projeto Open Source com o Github</a></li></ol>
-   <li>Bootcamp Java Cloud Native - Bradesco Microsoft DIO - Sintaxe Básica</li>  
+   <li>Java Bootcamp - Sintaxe Básica</li>  
       <ol type="1">
          <li><a href="https://github.com/lgjor/ContaBanco" target="_blank">Conta banco</li>
          <li><a href="https://github.com/lgjor/ProcessoSeletivo" target="_blank">Processo seletivo</li>
          <li><a href="https://github.com/lgjor/Contador" target="_blank">Contador</li>
+      </ol>
+   </li>
+   <li>Java Bootcamp - Exercícios Básicos</li>  
+      <ol type="1">
+         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Calcula Idade</li>
+         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Área do quadrado</li>
+         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Área do retângulo</li>
+         <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Diferença de idades</li>
       </ol>
    </li>
 </ul>
