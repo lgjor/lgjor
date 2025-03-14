@@ -76,6 +76,7 @@ I'm a Journalist
    <li>Bootcamp Java - A arte da abstração e do encapsulamento</li>
       <ol type="1">
          <li value="11"><a href="https://github.com/lgjor/ExerciciosJavaAbsClassesEncapsulamento" target="_blank">Classe carro e App que controla as funções de um Carro</li>
+         <li><a href="https://github.com/lgjor/PetShop" target="_blank">Máquina de banho de um petshop</li>
       </ol>
 </ul>
 
