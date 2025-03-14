@@ -63,7 +63,7 @@ I'm a Journalist
       </ol>
    </li>
    <li>Bootcamp Java - Exercícios Básicos</li>  
-      <ol type="1">
+      <ol type="4">
          <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Calcula Idade</li>
          <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Área do quadrado</li>
          <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Área do retângulo</li>
