@@ -73,7 +73,10 @@ I'm a Journalist
          <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Recebe números até que receba valor que dividido pelo 1º número tenha resto diferente de 0, ignorando valores menores que o 1º</li>
       </ol>
    </li>
-   <li>Bootcamp Java - A arte da abstração e do encapsulamento</li> 
+   <li>Bootcamp Java - A arte da abstração e do encapsulamento</li>
+      <ol type="1">
+         <li value="11"><a href="https://github.com/lgjor/ExerciciosJavaAbsClassesEncapsulamento" target="_blank">Classe carro e App que controla as funções de um Carro</li>
+      </ol>
 </ul>
 
 ### Support Me
