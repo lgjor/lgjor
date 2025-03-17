@@ -74,7 +74,7 @@ I'm a Journalist
                <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Diferença de idades</li>
                <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Calculadora de IMC</li>
                <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Lista intervalo de pares ou ímpares de modo decrescente</li>
-               <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Recebe números até que receba valor que dividido pelo 1º número tenha resto diferente de 0, ignorando valores menores que o 1º</li>
+               <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Recebe números até que receba valor que dividido pelo 1º tenha resto diferente de 0, ignorando valores menores que o 1º</li>
             </ol>
          </li>
          <li>A arte da abstração e do encapsulamento</li>
