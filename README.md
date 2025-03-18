@@ -85,9 +85,9 @@ I'm a Journalist
          </li>
          <li>Herança e polimorfismo</li>
             <ol type="1">
-               <li value="13"><a href="https://github.com/lgjor/JavaClock" target="_blank">01 - Ingresso de cinema com 3 tipos: Inteira, meia e família</li>
-               <li><a href="https://github.com/lgjor/employees" target="_blank">02 - Loja, gerente, vendedor e atendente</li>
-               <li><a href="https://github.com/lgjor/movietickets" target="_blank">03 - Relógio Java em formato BR e US</li>               
+               <li value="13"><a href="https://github.com/lgjor/JavaClock" target="_blank">Ingresso de cinema com 3 tipos: Inteira, meia e família</li>
+               <li><a href="https://github.com/lgjor/employees" target="_blank">Loja, gerente, vendedor e atendente</li>
+               <li><a href="https://github.com/lgjor/movietickets" target="_blank">Relógio Java em formato BR e US</li>               
             </ol>
       </ul>
    </li>
