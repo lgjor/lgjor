@@ -90,7 +90,7 @@ I'm a Journalist
                <li><a href="https://github.com/lgjor/movietickets" target="_blank">Relógio Java em formato BR e US</li>      
            </ol>
          </li>
-         <li>Herança e polimorfismo</li>
+         <li>Dominando interfaces e lambda em Java</li>
             <ol type="1">
                <li value="16"><a href="https://github.com/lgjor/AreaCalculator" target="_blank">Calculadora de área em java utilizando interfaces</li>   
             </ol>
