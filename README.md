@@ -93,6 +93,7 @@ I'm a Journalist
          <li>Dominando interfaces e lambda em Java</li>
             <ol type="1">
                <li value="16"><a href="https://github.com/lgjor/messageService" target="_blank">App que envia a mesma mensagem por diversos serviços</li>
+               <li><a href="https://github.com/lgjor/tributos" target="_blank">Calcula imposto por tipo de produto</li>
                <li><a href="https://github.com/lgjor/AreaCalculator" target="_blank">Calculadora de área em java utilizando interfaces</li>
             </ol>
       </ul>
