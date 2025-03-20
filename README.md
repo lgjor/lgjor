@@ -85,16 +85,17 @@ I'm a Journalist
          </li>
          <li>Herança e polimorfismo</li>
             <ol type="1">
-               <li value="13"><a href="https://github.com/lgjor/JavaClock" target="_blank">Ingresso de cinema com 3 tipos: Inteira, meia e família</li>
-               <li><a href="https://github.com/lgjor/employees" target="_blank">Loja, gerente, vendedor e atendente</li>
-               <li><a href="https://github.com/lgjor/movietickets" target="_blank">Relógio Java em formato BR e US</li>      
+               <li value="13"><a href="https://github.com/lgjor/JavaClock" target="_blank">Ingresso de cinema com 3 tipos: Inteira, meia e família</a></li>
+               <li><a href="https://github.com/lgjor/employees" target="_blank">Loja, gerente, vendedor e atendente</a></li>
+               <li><a href="https://github.com/lgjor/movietickets" target="_blank">Relógio Java em formato BR e US</a></li>     
            </ol>
          </li>
          <li>Dominando interfaces e lambda em Java</li>
             <ol type="1">
-               <li value="16"><a href="https://github.com/lgjor/messageService" target="_blank">App que envia a mesma mensagem por diversos serviços</li>
-               <li><a href="https://github.com/lgjor/tributos" target="_blank">Calcula imposto por tipo de produto</li>
-               <li><a href="https://github.com/lgjor/AreaCalculator" target="_blank">Calculadora de área em java utilizando interfaces</li>
+               <li value="16"><a href="https://github.com/lgjor/messageService" target="_blank">App que envia a mesma mensagem por diversos serviços</a></li>
+               <li><a href="https://github.com/lgjor/tributos" target="_blank">Calcula imposto por tipo de produto</a></li>
+               <li><a href="https://github.com/lgjor/AreaCalculator" target="_blank">Calculadora de área em java utilizando interfaces</a></li>
+               <li><a href="https://github.com/lgjor/IPhone" target="_blank">Modelagem e Diagramação de um Componente iPhone</a></li>
             </ol>
       </ul>
    </li>
