@@ -97,9 +97,12 @@ I'm a Journalist
                <li><a href="https://github.com/lgjor/AreaCalculator" target="_blank">Calculadora de área em java utilizando interfaces</a></li>
                <li><a href="https://github.com/lgjor/IPhone" target="_blank">Modelagem e Diagramação de um Componente iPhone</a></li>
             </ol>
-         <li><a href="https://github.com/lgjor/collections-java-api-2023" target="_blank">Conhecendo collections Java DIO</a></li>
-         <li><a href="https://github.com/lgjor/Stream_API" target="_blank">19 Desafios de Stream API - Java - DIO</a></li>
-         <li><a href="https://github.com/lgjor/desafio-dio-banco" target="_blank">Desafio DIO - Implementar Banco Digital utilizando os pilares da POO</a></li>
+         <li>Programação Orientada a Objetos (POO)</li>
+            <ol type="1">
+               <li><a href="https://github.com/lgjor/collections-java-api-2023" target="_blank">Conhecendo collections Java DIO</a></li>
+               <li><a href="https://github.com/lgjor/Stream_API" target="_blank">19 Desafios de Stream API - Java - DIO</a></li>
+               <li><a href="https://github.com/lgjor/desafio-dio-banco" target="_blank">Desafio DIO - Implementar Banco Digital utilizando os pilares da POO</a></li>
+            </ol>
       </ul>
    </li>
 </ul>
