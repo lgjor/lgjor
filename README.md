@@ -102,6 +102,7 @@ I'm a Journalist
                <li value="20"><a href="https://github.com/lgjor/collections-java-api-2023" target="_blank">Conhecendo collections Java DIO</a></li>
                <li><a href="https://github.com/lgjor/Stream_API" target="_blank">19 Desafios de Stream API - Java - DIO</a></li>
                <li><a href="https://github.com/lgjor/desafio-dio-banco" target="_blank">Desafio DIO - Implementar Banco Digital utilizando os pilares da POO</a></li>
+               <li><a href="https://github.com/lgjor/sudoku-desafio-java-dio" target="_blank">Desafio DIO - Implementar um Jogo de Sudoku em modo terminal e com ambiente gráfico</a></li>
             </ol>
       </ul>
    </li>
