@@ -104,6 +104,10 @@ I'm a Journalist
                <li><a href="https://github.com/lgjor/desafio-dio-banco" target="_blank">Desafio DIO - Implementar Banco Digital utilizando os pilares da POO</a></li>
                <li><a href="https://github.com/lgjor/sudoku-desafio-java-dio" target="_blank">Desafio DIO - Implementar um Jogo de Sudoku em modo terminal e com ambiente gráfico</a></li>
             </ol>
+         <li>Banco de dados</li>
+         <ol type="1">
+               <li value="24"><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Desafio Dio Board de Tarefas em Java em Mysql e JavaFX</a></li>
+            </ol>
       </ul>
    </li>
 </ul>
