@@ -4,7 +4,6 @@ Hi 👋 My name is Lucas Godoy
 I'm a Journalist
 ----------
 
-* 📑  I am studying Java.
 * ✉️  You can contact me at [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
 * 🧠  I'm learning Java, Javascript, Typescript, Node.js, C, Phyton, Wordpress, PHP, Mysql.
 * 🤝  I'm open to collaborating on Interesting projects
