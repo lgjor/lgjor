@@ -43,6 +43,7 @@ I'm a Journalist
 <li><a href="https://lgjor.github.io/portaldenoticias/" target="_blank">Portal de notícias</a></li>
 <li><a href="https://lgjor.github.io/formulariodematricula/" target="_blank">Formulário de Matrícula</a></li>
 <li><a href="https://lgjor.github.io/recipepage/" target="_blank">Página de receitas</a></li>
+<li><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Board de Tarefas em Java em Mysql e JavaFX</a></li>
 </ul>
 
 ### Meus estudos
