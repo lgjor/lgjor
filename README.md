@@ -10,7 +10,7 @@ I'm a Journalist
 
 ### Skills
 
-[Java ☕](https://www.oracle.com/java/) \|  [C 💻](https://docs.microsoft.com/en-us/cpp/?view=msvc-170) \| [JavaScript 🚀](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) \| [PHP 🐘](https://www.php.net/docs.php) \| [TypeScript ✨](https://www.typescriptlang.org/) \| [Node.js 🌿](https://nodejs.org/pt) \| [Linux 🐧](https://www.linuxfoundation.org/) \| [MySQL 🗄️](https://www.mysql.com/) \| [HTML5 🌐](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) \| [CSS 🎨](https://developer.mozilla.org/pt-BR/docs/Web/CSS) \| [WordPress 🚀](https://br.wordpress.org/) \| [Figma 🖌️](https://www.figma.com/pt-br/)
+[Java ☕](https://www.oracle.com/java/) \|  [C 💻](https://docs.microsoft.com/en-us/cpp/?view=msvc-170) \| [JavaScript 🚀](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) \| [TypeScript ✨](https://www.typescriptlang.org/) \| [Node.js 🌿](https://nodejs.org/pt) \| [Linux 🐧](https://www.linuxfoundation.org/) \| [MySQL 🗄️](https://www.mysql.com/) \| [PHP 🐘](https://www.php.net/docs.php) \| [HTML5 🌐](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) \| [CSS 🎨](https://developer.mozilla.org/pt-BR/docs/Web/CSS) \| [WordPress 🚀](https://br.wordpress.org/) \| [Figma 🖌️](https://www.figma.com/pt-br/)
 
 ### Socials
 
