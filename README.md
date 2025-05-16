@@ -111,6 +111,10 @@ I'm a Journalist
          <ol type="1">
                <li value="24"><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Desafio Dio Board de Tarefas em Java, Mysql e JavaFX</a></li>
             </ol>
+        <li>Manipulação de arquivos</li>
+        <ol type="1">
+               <li value="25"><a href="https://github.com/lgjor/manager-file-Java-IO" target="_blank">Gerenciando arquivos em Java com IO, NIO e NIO2</a></li>
+        </ol>
       </ul>
    </li>
 </ul>
