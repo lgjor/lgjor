@@ -40,7 +40,7 @@ I'm a Journalist
 <ul>
 <li><a href="https://lgjor.github.io/devlinks/" target="_blank">Meus links pessoais</a></li>
 <li><a href="https://caminhosdalongevidade.com.br/" target="_blank">Tema Wordpress e site: Caminhos da Longevidade</a></li>
-<li><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Board de Tarefas em Java, SQLLite e JavaFX</a></li>
+<li><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Board de Tarefas em Java, SQLite e JavaFX</a></li>
 <li><a href="https://lgjor.github.io/patinsanimation" target="_blank">Landing page com animações em CSS</a></li>
 <li><a href="https://lgjor.github.io/travelgram" target="_blank">Travelgram</a></li>
 <li><a href="https://lgjor.github.io/portaldenoticias/" target="_blank">Portal de notícias</a></li>
