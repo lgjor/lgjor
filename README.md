@@ -47,6 +47,7 @@ I'm a Journalist
 <li><a href="https://lgjor.github.io/recipepage/" target="_blank">Página de receitas</a></li>
 <li><a href="https://github.com/lgjor/detona-ralph">Mini game Detona Ralph - Html/Javascript/CSS</a></li>
 <li><a href="https://github.com/lgjor/memory-game">Jogo da memória - Html/Javascript/CSS</a></li>
+<li><a href="https://github.com/lgjor/js-yugioh-assets">Jogo Yu-Gi-Oh | Jo-ken-po Edition - Html/Javascript/CSS</a></li>
 <li><a href="https://github.com/lgjor/Pokedex">Pokedex que busca dados da PokeApi em Javascript/HTML/CSS</a></li>
   
 </ul>
