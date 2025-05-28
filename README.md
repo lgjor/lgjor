@@ -49,6 +49,7 @@ I'm a Journalist
 <li><a href="https://github.com/lgjor/memory-game">Jogo da memória - Html/Javascript/CSS</a></li>
 <li><a href="https://github.com/lgjor/js-yugioh-assets">Jogo Yu-Gi-Oh | Jo-ken-po Edition - Html/Javascript/CSS</a></li>
 <li><a href="https://github.com/lgjor/Pokedex">Pokedex que busca dados da PokeApi em Javascript/HTML/CSS</a></li>
+<li><a href="https://github.com/lgjor/piano">Simulador de piano em Javascript/HTML/CSS</a></li>
   
 </ul>
 
