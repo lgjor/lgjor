@@ -41,6 +41,7 @@ I'm a Journalist
 <li><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Board de Tarefas em Java, SQLite e JavaFX</a></li>
 <li><a href="https://lgjor.github.io/patinsanimation" target="_blank">Landing page com animações em CSS</a></li>
 <li><a href="https://github.com/lgjor/landingpage-trilhacss-dio" target="_blank">Landing page Trilha CSS DIO</a></li>
+<li><a href="https://github.com/lgjor/LandingPageMundoInvertido" target="_blank">Landing page Mundo Invertido</a></li>
 <li><a href="https://lgjor.github.io/travelgram" target="_blank">Travelgram</a></li>
 <li><a href="https://lgjor.github.io/portaldenoticias/" target="_blank">Portal de notícias</a></li>
 <li><a href="https://lgjor.github.io/formulariodematricula/" target="_blank">Formulário de Matrícula</a></li>
