@@ -23,6 +23,10 @@ I'm a Journalist
   <a href="https://www.youtube.com/@Lucas-rr2il" target="_blank" rel="noreferrer">YouTube</a>
 </p>
 
+### Portfolio
+
+<a href="https://lgjor.github.io/portfoliodev/" target="_blank" rel="noreferrer">Portfólio Dev (em construção)</a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
