@@ -57,72 +57,12 @@ I'm a Journalist
 ### Meus estudos
 
 <ul>
-   <li><a href="https://github.com/lgjor/EntendendoAlgoritmos" target="_blank">Livro: Entendendo Algoritmos de Aditya Y. Bhargava.</a></li>
-   <li><a href="https://github.com/lgjor/Estrutura-de-dados" target="_blank">Estrutura de dados com prof. Isidro.</a></li>
-</ul>
-
-<ul>
-   <li>Bootcamp Bradesco - Java Cloud Native DIO
-      <ul>
-         <li>Git Github</li>
-         <ol type="1"><li value="0"><a href="https://github.com/lgjor/dio-lab-open-source" target="_blank">Contribuindo em um projeto Open Source com o Github</a></li></ol>
-      </ul>
-      <ul>
-         <li>Sintaxe Básica</li>  
-            <ol type="1">
-               <li><a href="https://github.com/lgjor/ContaBanco" target="_blank">Conta banco</a></li>
-               <li><a href="https://github.com/lgjor/ProcessoSeletivo" target="_blank">Processo seletivo</a></li>
-               <li><a href="https://github.com/lgjor/Contador" target="_blank">Contador</a></li>
-            </ol>
-         </li>
-         <li>Exercícios Básicos</li>  
-            <ol type="1">
-               <li value="4"><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Calcula Idade</a></li>
-               <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Área do quadrado</a></li>
-               <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Área do retângulo</a></li>
-               <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Diferença de idades</a></li>
-               <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Calculadora de IMC</a></li>
-               <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Lista intervalo de pares ou ímpares de modo decrescente</a></li>
-               <li><a href="https://github.com/lgjor/ExerciciosDeJavaBasico" target="_blank">Recebe números até que receba valor que dividido pelo 1º tenha resto diferente de 0, ignorando valores menores que o 1º</a></li>
-            </ol>
-         </li>
-         <li>A arte da abstração e do encapsulamento</li>
-            <ol type="1">
-               <li value="11"><a href="https://github.com/lgjor/ExerciciosJavaAbsClassesEncapsulamento" target="_blank">Classe carro e App que controla as funções de um Carro</a></li>
-               <li><a href="https://github.com/lgjor/PetShop" target="_blank">Máquina de banho de um petshop</a></li>
-            </ol>
-         </li>
-         <li>Herança e polimorfismo</li>
-            <ol type="1">
-               <li value="13"><a href="https://github.com/lgjor/JavaClock" target="_blank">Ingresso de cinema com 3 tipos: Inteira, meia e família</a></li>
-               <li><a href="https://github.com/lgjor/employees" target="_blank">Loja, gerente, vendedor e atendente</a></li>
-               <li><a href="https://github.com/lgjor/movietickets" target="_blank">Relógio Java em formato BR e US</a></li>     
-           </ol>
-         </li>
-         <li>Dominando interfaces e lambda em Java</li>
-            <ol type="1">
-               <li value="16"><a href="https://github.com/lgjor/messageService" target="_blank">App que envia a mesma mensagem por diversos serviços</a></li>
-               <li><a href="https://github.com/lgjor/tributos" target="_blank">Calcula imposto por tipo de produto</a></li>
-               <li><a href="https://github.com/lgjor/AreaCalculator" target="_blank">Calculadora de área em java utilizando interfaces</a></li>
-               <li><a href="https://github.com/lgjor/IPhone" target="_blank">Modelagem e Diagramação de um Componente iPhone</a></li>
-            </ol>
-         <li>Programação Orientada a Objetos (POO)</li>
-            <ol type="1">
-               <li value="20"><a href="https://github.com/lgjor/collections-java-api-2023" target="_blank">Conhecendo collections Java DIO</a></li>
-               <li><a href="https://github.com/lgjor/Stream_API" target="_blank">19 Desafios de Stream API - Java - DIO</a></li>
-               <li><a href="https://github.com/lgjor/desafio-dio-banco" target="_blank">Desafio DIO - Implementar Banco Digital utilizando os pilares da POO</a></li>
-               <li><a href="https://github.com/lgjor/sudoku-desafio-java-dio" target="_blank">Desafio DIO - Implementar um Jogo de Sudoku em modo terminal e com ambiente gráfico</a></li>
-            </ol>
-         <li>Banco de dados</li>
-         <ol type="1">
-               <li value="24"><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Desafio Dio Board de Tarefas em Java, Mysql e JavaFX</a></li>
-            </ol>
-        <li>Manipulação de arquivos</li>
-        <ol type="1">
-               <li value="25"><a href="https://github.com/lgjor/manager-file-Java-IO" target="_blank">Gerenciando arquivos em Java com IO, NIO e NIO2</a></li>
-        </ol>
-      </ul>
-   </li>
+  <li><a href="https://github.com/lgjor/EntendendoAlgoritmos" target="_blank">Livro: Entendendo Algoritmos de Aditya Y. Bhargava.</a></li>
+  <li><a href="https://github.com/lgjor/Estrutura-de-dados" target="_blank">Estrutura de dados com prof. Isidro.</a></li>
+  <li><a href="https://github.com/lgjor/BootcampBradescoJavaCloudNative" target="_blank">Bootcamp Bradesco – Java Cloud Native (90h) - DIO</a></li>
+  <li><a href="https://github.com/lgjor/FormacaoJavaFundamentalsDIO" target="_blank">Formação Java Fundamentals (35h) - DIO</a></li>
+  <li><a href="https://github.com/lgjor/FormacaoJavaFundamentalsDIO" target="_blank">Fundamentos de HTML e CSS (30h) - Rocketseat</a></li>
+  <li><a href="https://github.com/lgjor/BootcampRiHappyFrontend" target="_blank">Bootcamp Ri Happy - Front-end do Zero (75h) - DIO</a></li>
 </ul>
 
 ### Support Me
