@@ -40,23 +40,22 @@ I'm a Journalist
 ### Meus projetos
 
 <ul>
-<li><a href="https://github.com/lgjor/portfoliodev" target="_blank">Portfolio Dev</a></li>
-<li><a href="https://lgjor.github.io/devlinks/" target="_blank">Meus links pessoais</a></li>
-<li><a href="https://caminhosdalongevidade.com.br/" target="_blank">Tema Wordpress e site: Caminhos da Longevidade</a></li>
-<li><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Board de Tarefas em Java, SQLite e JavaFX</a></li>
-<li><a href="https://lgjor.github.io/patinsanimation" target="_blank">Landing page com animações em CSS</a></li>
-<li><a href="https://github.com/lgjor/landingpage-trilhacss-dio" target="_blank">Landing page Trilha CSS DIO</a></li>
-<li><a href="https://github.com/lgjor/LandingPageMundoInvertido" target="_blank">Landing page Mundo Invertido</a></li>
-<li><a href="https://lgjor.github.io/travelgram" target="_blank">Travelgram</a></li>
-<li><a href="https://lgjor.github.io/portaldenoticias/" target="_blank">Portal de notícias</a></li>
-<li><a href="https://lgjor.github.io/formulariodematricula/" target="_blank">Formulário de Matrícula</a></li>
-<li><a href="https://lgjor.github.io/recipepage/" target="_blank">Página de receitas</a></li>
-<li><a href="https://github.com/lgjor/detona-ralph">Mini game Detona Ralph - Html/Javascript/CSS</a></li>
-<li><a href="https://github.com/lgjor/memory-game">Jogo da memória - Html/Javascript/CSS</a></li>
-<li><a href="https://github.com/lgjor/js-yugioh-assets">Jogo Yu-Gi-Oh | Jo-ken-po Edition - Html/Javascript/CSS</a></li>
-<li><a href="https://github.com/lgjor/Pokedex">Pokedex que busca dados da PokeApi em Javascript/HTML/CSS</a></li>
-<li><a href="https://github.com/lgjor/piano">Simulador de piano em Javascript/HTML/CSS</a></li>
-  
+  <li><a href="https://github.com/lgjor/portfoliodev" target="_blank">Portfolio Dev</a></li>
+  <li><a href="https://lgjor.github.io/devlinks/" target="_blank">Meus links pessoais</a></li>
+  <li><a href="https://caminhosdalongevidade.com.br/" target="_blank">Tema Wordpress e site: Caminhos da Longevidade</a></li>
+  <li><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Board de Tarefas em Java, SQLite e JavaFX</a></li>
+  <li><a href="https://github.com/lgjor/detona-ralph">Mini game Detona Ralph - Html/Javascript/CSS</a></li>
+  <li><a href="https://github.com/lgjor/memory-game">Jogo da memória - Html/Javascript/CSS</a></li>
+  <li><a href="https://github.com/lgjor/js-yugioh-assets">Jogo Yu-Gi-Oh | Jo-ken-po Edition - Html/Javascript/CSS</a></li>
+  <li><a href="https://github.com/lgjor/Pokedex">Pokedex que busca dados da PokeApi em Javascript/HTML/CSS</a></li>
+  <li><a href="https://github.com/lgjor/piano">Simulador de piano em Javascript/HTML/CSS</a></li>
+  <li><a href="https://lgjor.github.io/patinsanimation" target="_blank">Landing page com animações em CSS</a></li>
+  <li><a href="https://github.com/lgjor/landingpage-trilhacss-dio" target="_blank">Landing page Trilha CSS DIO</a></li>
+  <li><a href="https://github.com/lgjor/LandingPageMundoInvertido" target="_blank">Landing page Mundo Invertido</a></li>
+  <li><a href="https://lgjor.github.io/travelgram" target="_blank">Travelgram</a></li>
+  <li><a href="https://lgjor.github.io/portaldenoticias/" target="_blank">Portal de notícias</a></li>
+  <li><a href="https://lgjor.github.io/formulariodematricula/" target="_blank">Formulário de Matrícula</a></li>
+  <li><a href="https://lgjor.github.io/recipepage/" target="_blank">Página de receitas</a></li>
 </ul>
 
 ### Meus estudos
