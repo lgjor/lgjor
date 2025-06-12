@@ -44,11 +44,12 @@ I'm a Journalist
   <li><a href="https://lgjor.github.io/devlinks/" target="_blank">Meus links pessoais</a></li>
   <li><a href="https://caminhosdalongevidade.com.br/" target="_blank">Tema Wordpress e site: Caminhos da Longevidade</a></li>
   <li><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Board de Tarefas em Java, SQLite e JavaFX</a></li>
-  <li><a href="https://github.com/lgjor/detona-ralph">Mini game Detona Ralph - Html/Javascript/CSS</a></li>
-  <li><a href="https://github.com/lgjor/memory-game">Jogo da memória - Html/Javascript/CSS</a></li>
-  <li><a href="https://github.com/lgjor/js-yugioh-assets">Jogo Yu-Gi-Oh | Jo-ken-po Edition - Html/Javascript/CSS</a></li>
-  <li><a href="https://github.com/lgjor/Pokedex">Pokedex que busca dados da PokeApi em Javascript/HTML/CSS</a></li>
-  <li><a href="https://github.com/lgjor/piano">Simulador de piano em Javascript/HTML/CSS</a></li>
+  <li><a href="https://lgjor.github.io/ddinitiativecalculator/" target=_blank">Calculadora de Iniciativa D&D</a>
+  <li><a href="https://github.com/lgjor/detona-ralph" target=_blank">Mini game Detona Ralph - Html/Javascript/CSS</a></li>
+  <li><a href="https://github.com/lgjor/memory-game" target=_blank">Jogo da memória - Html/Javascript/CSS</a></li>
+  <li><a href="https://github.com/lgjor/js-yugioh-assets" target=_blank">Jogo Yu-Gi-Oh | Jo-ken-po Edition - Html/Javascript/CSS</a></li>
+  <li><a href="https://github.com/lgjor/Pokedex" target=_blank">Pokedex que busca dados da PokeApi em Javascript/HTML/CSS</a></li>
+  <li><a href="https://github.com/lgjor/piano" target=_blank">Simulador de piano em Javascript/HTML/CSS</a></li>
   <li><a href="https://lgjor.github.io/patinsanimation" target="_blank">Landing page com animações em CSS</a></li>
   <li><a href="https://github.com/lgjor/landingpage-trilhacss-dio" target="_blank">Landing page Trilha CSS DIO</a></li>
   <li><a href="https://github.com/lgjor/LandingPageMundoInvertido" target="_blank">Landing page Mundo Invertido</a></li>
