@@ -44,6 +44,7 @@ I'm a Journalist
   <li><a href="https://lgjor.github.io/devlinks/" target="_blank">Meus links pessoais</a></li>
   <li><a href="https://caminhosdalongevidade.com.br/" target="_blank">Tema Wordpress e site: Caminhos da Longevidade</a></li>
   <li><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Board de Tarefas em Java, SQLite e JavaFX</a></li>
+  <li><a href="https://github.com/lgjor/JavaFizzBuzzWithCucumber" target="_blank">FizzBuzz com Java, Maven e Cucumber</a></li>
   <li><a href="https://github.com/lgjor/dndinitiativecalculator" target=_blank">Calculadora de Iniciativa D&D</a>
   <li><a href="https://github.com/lgjor/detona-ralph" target=_blank">Mini game Detona Ralph - Html/Javascript/CSS</a></li>
   <li><a href="https://github.com/lgjor/memory-game" target=_blank">Jogo da memória - Html/Javascript/CSS</a></li>
