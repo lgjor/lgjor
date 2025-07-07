@@ -46,6 +46,7 @@ I'm a Journalist
   <li><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Board de Tarefas em Java, SQLite e JavaFX</a></li>
   <li><a href="https://github.com/lgjor/JavaFizzBuzzWithCucumber" target="_blank">FizzBuzz com Java, Maven e Cucumber</a></li>
   <li><a href="https://github.com/lgjor/TicTacToe" target="_blank">Jogo da velha com 3 níveis de dificuldade</a></li>
+  <li><a href="https://github.com/lgjor/snake-game" target="_blank">Snake Game em JS, CSS e HTML</a></li>
   <li><a href="https://github.com/lgjor/dndinitiativecalculator" target=_blank">Calculadora de Iniciativa D&D</a>
   <li><a href="https://github.com/lgjor/detona-ralph" target=_blank">Mini game Detona Ralph - Html/Javascript/CSS</a></li>
   <li><a href="https://github.com/lgjor/memory-game" target=_blank">Jogo da memória - Html/Javascript/CSS</a></li>
