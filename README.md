@@ -25,7 +25,8 @@ I'm a Journalist
 
 ### Portfólio
 
-<a href="https://lgjor.github.io/portfoliodev/" target="_blank" rel="noreferrer">Portfólio Dev (em construção)</a>
+Sempre em construção, para uma versão mais atualizada, entre em contato.
+<a href="https://lgjor.github.io/portfoliodev/" target="_blank" rel="noreferrer">Portfólio Dev</a>
 
 ### Badges
 
