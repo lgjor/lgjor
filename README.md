@@ -47,7 +47,7 @@ _* Sempre em construção, para uma versão mais atualizada, entre em contato._
   <li><a href="https://lgjor.github.io/devlinks/" target="_blank">Meus links pessoais</a></li>
   <li><a href="https://caminhosdalongevidade.com.br/" target="_blank">Tema Wordpress e site: Caminhos da Longevidade</a></li>
   <li><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">Board de Tarefas em Java, H2 e JavaFX</a></li>
-  <li><a href="https://github.com/lgjor/desafio-board-dio" target="_blank">5 Projetos práticos com Java: </a></li>
+  <li><a href="https://github.com/lgjor/JavaProjects" target="_blank">5 Projetos práticos com Java: </a></li>
    Dice roller simulator; Word guessing game; Password generator; File manager; Weather Forecast Application;
   <li><a href="https://github.com/lgjor/JavaFizzBuzzWithCucumber" target="_blank">FizzBuzz com Java, Maven e Cucumber</a></li>
   <li><a href="https://github.com/lgjor/TicTacToe" target="_blank">Jogo da velha com 3 níveis de dificuldade</a></li>
