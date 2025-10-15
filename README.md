@@ -5,7 +5,7 @@ I'm a Journalist
 ----------
 
 * ✉️  You can contact me at [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
-* 🧠  I'm learning Java, Javascript, Typescript, Node.js, C, PHP, Mysql.
+* 🧠  I'm learning Java and Data Bases.
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
