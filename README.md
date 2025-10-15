@@ -1,7 +1,7 @@
 Hi 👋 My name is Lucas Godoy
 ============================
 
-I'm a Journalist
+I am a Java Backend developer
 ----------
 
 * ✉️  You can contact me at [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
