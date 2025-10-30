@@ -5,7 +5,7 @@ I am a Java Backend developer
 ----------
 
 * ✉️  You can contact me at [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
-* 🧠  I'm learning Java and Data Bases.
+* 🧠  I'm learning Java, DevOps and Data Bases.
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
