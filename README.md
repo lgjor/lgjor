@@ -1,6 +1,12 @@
 # Olá 👋, sou Lucas Godoy. Vamos construir algo incrível?
 
-Seja bem-vindo(a), estou aqui para compartilhar o conhecimeto, colaborar em projetos Open Source e aprender mais com projetos interessantes.
+Seja bem-vindo(a)! Estou aqui para:
+
+- Aprender mais.
+- Colaborar em projetos de Código Aberto/Livre.
+- Compartilhar o conhecimeto.
+
+___
 
 * ✉️  You can contact me at [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
 * 🧠  I'm learning Java, DevOps and Data Bases.
