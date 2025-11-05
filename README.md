@@ -110,5 +110,3 @@ Estou em busca de novos desafios e aberto a projetos interessantes. Se você tem
 
 * **📧 Email:** [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
 * **🔗 LinkedIn:** [Lucas Godoy](https://www.linkedin.com/in/lucasgch/)
-
-**Vamos construir algo incrível juntos!**
