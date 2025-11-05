@@ -1,7 +1,6 @@
 # Olá 👋, sou Lucas Godoy. Vamos construir algo incrível?
 
-Seja bem-vindo(a) ao meu humilde ub de código, estou aqui para compartilhar o conhecimeto e aprender mais com projetos interessantes.
-----------
+Seja bem-vindo(a) ao meu humilde hub de código, estou aqui para compartilhar o conhecimeto e aprender mais com projetos interessantes.
 
 * ✉️  You can contact me at [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
 * 🧠  I'm learning Java, DevOps and Data Bases.
