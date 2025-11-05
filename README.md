@@ -1,10 +1,12 @@
-# Olá 👋, sou Lucas Godoy. Vamos construir algo incrível?
+# Sou Lucas Godoy. Vamos construir algo incrível?
 
-Seja bem-vindo(a)! Estou aqui para:
+Estou aqui para:
 
 - Aprender mais.
 - Colaborar em projetos de Código Aberto/Livre.
 - Compartilhar o conhecimeto.
+
+<p align="center"> <i>Seja bem-vindo(a)!</i> </p>
 
 ___
 
@@ -110,13 +112,3 @@ Estou em busca de novos desafios e aberto a projetos interessantes. Se você tem
 * **🔗 LinkedIn:** [Lucas Godoy](https://www.linkedin.com/in/lucasgch/)
 
 **Vamos construir algo incrível juntos!**
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/desviante"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/desviante"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
