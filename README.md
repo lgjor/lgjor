@@ -97,6 +97,15 @@ _* Sempre em construção, para uma versão mais atualizada, entre em contato._
   <li><a href="https://github.com/lgjor/BootcampRiHappyFrontend" target="_blank">Bootcamp Ri Happy - Front-end do Zero (75h) - DIO</a></li>
 </ul>
 
+## 🤝 Conecte-se e Colabore
+
+Estou em busca de novos desafios e aberto a projetos interessantes. Se você tem uma ideia, precisa de ajuda ou simplesmente quer trocar conhecimento sobre Java Backend, DevOps ou Estrutura de Dados, sinta-se à vontade para me contatar.
+
+* **📧 Email:** [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
+* **🔗 LinkedIn:** [Lucas Godoy](https://www.linkedin.com/in/lucasgch/)
+
+**Vamos construir algo incrível juntos!**
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
