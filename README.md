@@ -1,6 +1,6 @@
-# Hi 👋 My name is Lucas Godoy
+# Olá 👋, sou Lucas Godoy. Vamos construir algo incrível?
 
-I am a Java Backend developer
+Seja bem-vindo(a) ao meu humilde ub de código, estou aqui para compartilhar o conhecimeto e aprender mais com projetos interessantes.
 ----------
 
 * ✉️  You can contact me at [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
