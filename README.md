@@ -1,4 +1,4 @@
-Hi 👋 My name is Lucas Godoy
+# Hi 👋 My name is Lucas Godoy
 ============================
 
 I am a Java Backend developer
@@ -8,7 +8,9 @@ I am a Java Backend developer
 * 🧠  I'm learning Java, DevOps and Data Bases.
 * 🤝  I'm open to collaborating on Interesting projects
 
-### 💻 Minhas Habilidades
+ ---
+
+## 💻 Minhas Habilidades
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -25,7 +27,9 @@ I am a Java Backend developer
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
 </p>
 
-### Socials
+---
+
+## Socials
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucasgch/" target="_blank" rel="noreferrer">LinkedIn</a>&nbsp; | &nbsp;
@@ -39,12 +43,12 @@ I am a Java Backend developer
   <a href="https://roadmap.sh/befriend?u=6709b231fb4be684db425622 target="_blank" rel="noreferrer">Roadmap.sh</a>&nbsp;
 </p>
 
-### Portfólio*
+## Portfólio*
 
 <a href="https://lgjor.github.io/portfoliodev/" target="_blank" rel="noreferrer">Portfólio Dev</a><br/>
 _* Sempre em construção, para uma versão mais atualizada, entre em contato._
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
@@ -54,7 +58,9 @@ _* Sempre em construção, para uma versão mais atualizada, entre em contato._
 
 <a href="https://github.com/lgjor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgjor&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Meus projetos
+---
+
+## Meus projetos
 
 <ul>
   <li><a href="https://github.com/lgjor/portfoliodev" target="_blank">Portfolio Dev</a></li>
@@ -81,7 +87,7 @@ _* Sempre em construção, para uma versão mais atualizada, entre em contato._
   <li><a href="https://lgjor.github.io/recipepage/" target="_blank">Página de receitas</a></li>
 </ul>
 
-### Meus estudos
+## Estudos
 
 <ul>
   <li><a href="https://github.com/lgjor/EntendendoAlgoritmos" target="_blank">Livro: Entendendo Algoritmos de Aditya Y. Bhargava.</a></li>
