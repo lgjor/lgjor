@@ -1,22 +1,22 @@
-# Sou Lucas Godoy. Vamos construir algo incrível?
+# Olá, sou Lucas de Godoy
 
-Estou aqui para:
+Jornalista, mestre e especialista em Comunicação pela Universidade Estadual de Londrina, com mais de 10 anos de experiência em assessoria de comunicação e projetos socio­culturais. Trabalhei com comunicação estratégica, conteúdo, audiovisual, mídias sociais e iniciativas de impacto social.
 
-- Aprender mais.
-- Colaborar em projetos de Código Aberto/Livre.
-- Compartilhar o conhecimeto.
+Atualmente, estou em transição para desenvolvimento Backend, com foco em Java, Spring Boot, JUnit e boas práticas de arquitetura. Já desenvolvi projetos com JavaScript, Node.js, HTML, CSS, WordPress e possuo conhecimento básico em Python. Também tenho graduação em Ciência da Computação (incompleta), que pretendo retomar.
 
-<p align="center"> <i>Seja bem-vindo(a)!</i> </p>
+Desejo unir minha experiência em comunicação com a tecnologia para criar soluções eficientes, criativas e orientadas a resultados.
 
-___
+## 🚀 O que estou estudando
 
-* ✉️  You can contact me at [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
-* 🧠  I'm learning Java, DevOps and Data Bases.
-* 🤝  I'm open to collaborating on Interesting projects
+- Java
+- Spring Boot (REST, JPA, Security)
+- Testes com JUnit
+- Gradle, modularização e JavaFX
+- Estruturas de Dados e Algoritmos
+- Boas práticas de código (SOLID, Clean Code)
+- Projetos pessoais e PoCs para portfólio
 
- ---
-
-## 💻 Minhas Habilidades
+## 🛠️ Tecnologias
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -33,6 +33,50 @@ ___
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
 </p>
 
+## 📌 Principais Projetos (Backend / Java)
+
+- Board de Tarefas (Java + JavaFX + H2)
+https://github.com/lgjor/desafio-board-dio
+
+- Academia Digital (Java + Spring Boot no BackEnd e React no Front)
+https://github.com/lgjor/academia-digital
+
+- Diversos exercícios e projetos em Java, estou sempre atualizando
+(Lista completa no meus repositórios)
+
+## 📂 Outros Projetos (JS / Frontend / Games)
+
+- Autocomplete com Trie — JS
+https://github.com/lgjor/trie-form-autocomplete
+
+- Jogos em JS e páginas web responsivas.
+(Lista completa no meus repositórios)
+
+- Tema WordPress — Caminhos da Longevidade
+https://caminhosdalongevidade.com.br/
+
+- Porfolio dev
+https://github.com/lgjor/portfoliodev
+
+## 📘 Estudos e formações
+
+- Entendendo Algoritmos — Aditya Bhargava - https://github.com/lgjor/EntendendoAlgoritmos
+- Estrutura de Dados com Prof. Isidro - https://github.com/lgjor/Estrutura-de-dados
+- Bootcamp Bradesco – Java Cloud Native (90h)
+- Formação Java Fundamentals (35h) — DIO
+- Frontend do Zero (75h) — DIO
+- Rocketseat HTML/CSS
+
+---
+
+## 🤝 Conecte-se e Colabore
+
+Estou em busca de oportunidades, desafios e projetos interessantes.
+Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estudos de TI, me chame!
+
+📧 Email: [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
+🔗 LinkedIn: [Lucas Godoy](https://www.linkedin.com/in/lucasgch/)
+
 ---
 
 ## Socials
@@ -48,13 +92,6 @@ ___
   <a href="https://t.co/G5jzD5vcBE" target="_blank" rel="noreferrer">Hyperskill: Site com exercícios para aprender programação passo a passo</a>&nbsp; | &nbsp;
   <a href="https://roadmap.sh/befriend?u=6709b231fb4be684db425622 target="_blank" rel="noreferrer">Roadmap.sh</a>&nbsp;
 </p>
-
-## Portfólio*
-
-<a href="https://lgjor.github.io/portfoliodev/" target="_blank" rel="noreferrer">Portfólio Dev</a><br/>
-_* Sempre em construção, para uma versão mais atualizada, entre em contato._
-
-## Badges
 
 <b>My GitHub Stats</b>
 
@@ -92,21 +129,3 @@ _* Sempre em construção, para uma versão mais atualizada, entre em contato._
   <li><a href="https://lgjor.github.io/formulariodematricula/" target="_blank">Formulário de Matrícula</a></li>
   <li><a href="https://lgjor.github.io/recipepage/" target="_blank">Página de receitas</a></li>
 </ul>
-
-## Estudos
-
-<ul>
-  <li><a href="https://github.com/lgjor/EntendendoAlgoritmos" target="_blank">Livro: Entendendo Algoritmos de Aditya Y. Bhargava.</a></li>
-  <li><a href="https://github.com/lgjor/Estrutura-de-dados" target="_blank">Estrutura de dados com prof. Isidro.</a></li>
-  <li><a href="https://github.com/lgjor/BootcampBradescoJavaCloudNative" target="_blank">Bootcamp Bradesco – Java Cloud Native (90h) - DIO</a></li>
-  <li><a href="https://github.com/lgjor/FormacaoJavaFundamentalsDIO" target="_blank">Formação Java Fundamentals (35h) - DIO</a></li>
-  <li><a href="https://github.com/lgjor/FormacaoJavaFundamentalsDIO" target="_blank">Fundamentos de HTML e CSS (30h) - Rocketseat</a></li>
-  <li><a href="https://github.com/lgjor/BootcampRiHappyFrontend" target="_blank">Bootcamp Ri Happy - Front-end do Zero (75h) - DIO</a></li>
-</ul>
-
-## 🤝 Conecte-se e Colabore
-
-Estou em busca de novos desafios e aberto a projetos interessantes. Se você tem uma ideia, precisa de ajuda ou simplesmente quer trocar conhecimento sobre Java Backend, DevOps ou Estrutura de Dados, sinta-se à vontade para me contatar.
-
-* **📧 Email:** [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
-* **🔗 LinkedIn:** [Lucas Godoy](https://www.linkedin.com/in/lucasgch/)
