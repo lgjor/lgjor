@@ -74,7 +74,7 @@ https://github.com/lgjor/portfoliodev
 Estou em busca de oportunidades, desafios e projetos interessantes.
 Se quiser trocar ideias sobre Java Backend, testes, arquitetura, DevOps ou estudos de TI, me chame!
 
-📧 Email: [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)
+📧 Email: [lucasgodoyjor@gmail.com](mailto:lucasgodoyjor@gmail.com)<br>
 🔗 LinkedIn: [Lucas Godoy](https://www.linkedin.com/in/lucasgch/)
 
 ---
