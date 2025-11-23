@@ -9,11 +9,11 @@ Desejo unir minha experiência em comunicação com a tecnologia para criar solu
 ## 🚀 O que estou estudando
 
 - Java
-- Spring Boot (REST, JPA, Security)
+- Estruturas de Dados e Algoritmos
 - Testes com JUnit
 - Gradle, modularização e JavaFX
-- Estruturas de Dados e Algoritmos
 - Boas práticas de código (SOLID, Clean Code)
+- Spring Boot (REST, JPA, Security)
 - Projetos pessoais e PoCs para portfólio
 
 ## 🛠️ Tecnologias
