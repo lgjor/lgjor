@@ -1,8 +1,10 @@
 # Olá, sou Lucas de Godoy
 
+Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina.
+
 Jornalista, mestre e especialista em Comunicação pela Universidade Estadual de Londrina, com mais de 10 anos de experiência em assessoria de comunicação e projetos socio­culturais. Trabalhei com comunicação estratégica, conteúdo, audiovisual, mídias sociais e iniciativas de impacto social.
 
-Atualmente, estou em transição para desenvolvimento Backend, com foco em Java, Spring Boot, JUnit e boas práticas de arquitetura. Já desenvolvi projetos com JavaScript, Node.js, HTML, CSS, WordPress e possuo conhecimento básico em Python. Também tenho graduação em Ciência da Computação (incompleta), que pretendo retomar.
+Atualmente, estou em transição para desenvolvimento Backend, com foco em Java, Spring Boot, JUnit e boas práticas de arquitetura. Já desenvolvi projetos com JavaScript, Node.js, HTML, CSS, WordPress e possuo conhecimento básico em Python.
 
 Desejo unir minha experiência em comunicação com a tecnologia para criar soluções eficientes, criativas e orientadas a resultados.
 
